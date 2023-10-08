@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scikit-learn
+tqdm
+scipy
+shapely
+netcal
