@@ -5,3 +5,4 @@ conda activate mamap
 pip install -r requirements.txt
 ./reproduce.sh
 ```
+Other details: I am getting lazy to write :)
